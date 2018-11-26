@@ -1,0 +1,77 @@
+help;
+show databases;
+select @@hostname;
+create table people
+(first_name varchar(20),
+last_name varchar(20),
+age int);
+1. $ mysql-ctl start
+2. $ mysql=ctl cli
+3. mysql> show databases;
+4. mysql> use c9:
+5. mysql> select database();
+6. create table people
+->(
+-> first_name varchar(20),
+-> last_name varchar(20),
+-> age int
+-> );
+7. mysql insert into people&
+(first_name,last_name,age)
+->values (’tina’,’Belcher’,13);
+8. show columns from <people>;
+9. select * from people;
+10. drop table people;
+11. show tables;
+12.show warnings;
+help;
+show databases;
+select @@hostname;
+create table people
+(first_name varchar(20),
+last_name varchar(20),
+age int);
+1. $ mysql-ctl start
+2. $ mysql=ctl cli
+3. mysql> show databases;
+4. mysql> use c9:
+5. mysql> select database();
+6. create table people
+->(
+-> first_name varchar(20),
+-> last_name varchar(20),
+-> age int
+-> );
+7. mysql insert into people&
+(first_name,last_name,age)
+->values (’tina’,’Belcher’,13);
+8. mysql> select * from people;
+help;
+show databases;
+select @@hostname;
+create table people
+(first_name varchar(20),
+last_name varchar(20),
+age int);
+1. $ mysql-ctl start
+2. $ mysql=ctl cli
+3. mysql> show databases;
+4. mysql> use c9:
+5. mysql> select database();
+6. create table people
+->(
+-> first_name varchar(20),
+-> last_name varchar(20),
+-> age int
+-> );
+7. mysql insert into people&
+(first_name,last_name,age)
+->values (’tina’,’Belcher’,13);
+
+Ubuntu Server 18.04.1 LTS
+
+
+https://www.ubuntu.com/download/server
+
+8. mysql> select * from people;
+https://guides.github.com/features/mastering-markdown
